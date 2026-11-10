@@ -29,10 +29,6 @@
 - Integrates the **WhatsApp Business Cloud API**, the **Google Calendar API** and LLM providers.
 - Python/FastAPI backend and a React + TypeScript admin dashboard.
 
-### Independent work
-
-**Viba** (in progress): a hotel booking platform with a **Rust** backend.
-
 ### Tech stack
 
 **Languages**<br/>
